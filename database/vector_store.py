@@ -1,3 +1,5 @@
+import os
+os.makedirs(CHROMA_DB_PATH, exist_ok=True)
 import chromadb
 from config.settings import CHROMA_DB_PATH
 from models.embedding_model import EmbeddingModel
