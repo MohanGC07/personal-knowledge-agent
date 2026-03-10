@@ -358,7 +358,7 @@ For a **local or self-hosted deployment**, persistence works out of the box with
 
 | Chat Interface | Memory Panel | Memory Viewer |
 |---|---|---|
-| ![Chat UI](screenshots/chat_ui.png) | ![Memory Panel](screenshots/memory_panel.png) | ![Memory Viewer](screenshots/memory_viewer.png) |
+| ![Chat UI](./screenshots/chat_ui.png) | ![Memory Panel](./screenshots/memory_panel.png) | ![Memory Viewer](./screenshots/memory_viewer.png) |
 
 ---
 
